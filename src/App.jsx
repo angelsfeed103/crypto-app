@@ -1,7 +1,7 @@
 import CoinCard from "./components/CoinCard"
 
 function App() {
- 
+
 
   return (
     <div>
@@ -10,5 +10,3 @@ function App() {
     </div>
   )
 }
-
-export default App
